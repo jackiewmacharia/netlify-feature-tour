@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "astro": "^0.20.7"
+  },
+  "dependencies": {
+    "@netlify/functions": "^1.0.0"
   }
 }
