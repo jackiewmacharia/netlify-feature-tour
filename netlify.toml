@@ -7,4 +7,4 @@
   force = true
   from = "/foo/*"
   status = 301
-  to = "/.netlify/functions/bar/?url=test"
+  to = "/.netlify/functions/bar/?url=:splat"
